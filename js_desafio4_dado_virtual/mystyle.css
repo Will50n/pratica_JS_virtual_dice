@@ -1,0 +1,16 @@
+body {
+   text-align: center;
+   font-family: 'Open Sans', sans-serif;
+}
+
+#btnSortear {
+   text-align: center;
+}
+
+.center {
+   margin: auto;
+}
+
+#resultado {
+   font-size: 20px;
+}
